@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DeCAEjtd7jZvTbg56aKUt7wK3sg+42hkkKDJnmM4LOW4/jUxh9y+PMw1WY2oLQ5x3vDUgM/Jxwp+XSX8kyeEAA==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\Projects\\BookReadingApp\\BookReadingApp\\BookReadingApp.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prasunguchhait\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
